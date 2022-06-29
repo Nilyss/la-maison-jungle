@@ -10,6 +10,9 @@ import Logo from "../assets/leaf.png";
 // Import ShoppingList component
 import ShoppingList from "./ShoppingList";
 
+// Import Footer
+import Footer from "./Footer";
+
 function App() {
   return (
     <div>
@@ -19,6 +22,7 @@ function App() {
       </Banner>
       {/*<Cart />*/}
       <ShoppingList />
+      <Footer />
     </div>
   );
 }
