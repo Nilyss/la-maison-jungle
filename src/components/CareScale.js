@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 import Sun from '../assets/sun.svg'
 import Water from '../assets/water.svg'
 
